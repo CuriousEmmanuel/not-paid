@@ -30,6 +30,4 @@ Made by Ciprian (@kleampa), Romania
 
 PS: No PR's or issues will be accepted for this project. 
 
-## Advertising
 
-Because this repo is going viral from time to time to developers, I'm open for discussion if you want to promote a product/service in this README file. Just mail me at kleampa[]gmail
